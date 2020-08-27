@@ -15,7 +15,7 @@ class SettingAppbar extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: new Text("Evita Dwi Aprisa 5SIC7"),
+        title: new Text("D&D App"),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.insert_link),
